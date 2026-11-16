@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.contenido {
+    border-bottom: 1px solid #ccc;
+    padding: 20px 0px;
+    width: 70%;
+}
+
+#busqueda {
+    border: none;
+    background-color: #dfdfdf;
+    height: 40px;
+    width: 70%;
+    outline: none;
+    border-radius: 5px;
+}
+
+#btn-buscar {
+    background-color: #a8daf7;
+    color: #018ce9;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.informacion {
+    font-size: 20px;
+}
+
+p {
+    font-weight: bold;
+}
+
+span {
+    font-weight: normal;
+}
+
+.mensaje-verde {
+    background-color: #c9ff96;
+    color: #357500de;
+    text-align: center;
+    width: 300px;
+    border-radius: 5px;
+    padding: 5px;
+    font-weight: bold;
+}
+
+.mensaje-rojo {
+    background-color: #ff8686;
+    color: #ff0000;
+    text-align: center;
+    width: 300px;
+    border-radius: 5px;
+    padding: 5px;
+    font-weight: bold;
+}
+
